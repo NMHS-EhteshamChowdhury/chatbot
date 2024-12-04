@@ -1,0 +1,9 @@
+*
+!.gitignore
+!app.py
+!chatbot_app.py
+!National_Efficient_Price_Determination_2022_23.pdf
+!National_Efficient_Price_Determination_2023_24.PDF
+!ollama_embedding.ipynb
+!pyvenv.cfg
+!requirements.txt
